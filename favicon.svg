@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="512" height="512">
+  <title>Find — handshake logo</title>
+  <g fill="none" stroke="#0b5fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M10 34c0-6 5-10 10-10 3 0 6 1 8 3l6 5 8-6c3-2 6-2 9 0 5 3 5 10 0 13l-8 6-6-4"/>
+    <path d="M24 46c-2 2-5 3-8 3-5 0-10-4-10-10 0-4 2-7 5-9" />
+    <path d="M40 20c2-1 5-1 8 0l6 3" />
+  </g>
+</svg>
